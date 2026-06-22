@@ -1,3 +1,10 @@
+
+Introdução 
+
+- [Exercícios - pensamento matemático](mtm-exerc-pensamento-mtm-01.pdf)
+- [A natureza abstrata da matemática ](mtm-natureza-abstrata-da-mtm.md)
+- [Ambiguidade e contexto](mtm-ambiguidade-e-contexto.md)
+
 # Estatística
 
 Estatística descritiva
@@ -6,6 +13,9 @@ Estatística descritiva
 - [Tabelas de Frequência e Gráfico de Barras](stt-tabelas-de-freq-graf-barras.md) - Frequência Absoluta, Frequência Relativa, Gráfico de Barras
 - [Média](stt-media.md) - média aritmética, média em tabela de frequências, intervalos
 - [Histograma](stt-histograma.md) - Visualização em histograma
+
+
+[Revisão: rol, média, gáfico de barras, histograma](stt-revisao-rol-media.md)
 
 python 
 
