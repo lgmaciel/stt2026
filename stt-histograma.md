@@ -1,4 +1,4 @@
-# Visualização com Histograma:
+# Visualização com Histograma
 
 Um histograma é um gráfico com barras coladas (diferente do gráfico de barras):
 
@@ -10,7 +10,7 @@ O que o histograma mostra:
 
 Histograma é como um "mapa do tesouro". A montanha mais alta (160-170) é onde a maioria dos alunos está."
 
-## Exercício 4:
+## Exercício 4
 
 
 Tempo (em minutos) que 25 alunos levaram para fazer uma tarefa:
@@ -20,7 +20,7 @@ Tempo (em minutos) que 25 alunos levaram para fazer uma tarefa:
 11, 19, 22, 20, 18, 17, 25, 14, 21, 13
 ```
 
-Tarefa:
+## Tarefa
 
 1. Agrupe em intervalos: 10-15, 15-20, 20-25
 1. Crie a tabela de frequência
