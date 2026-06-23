@@ -2,7 +2,7 @@
 
 |Medida|	O que é|	Como calcular|	Quando usar|
 |------|-----------|-----------------|-------------|
-|Média|	Soma ÷ quantidade|	Σx ÷ n|	Dados sem outliers; resumo geral|
+|Média|	Soma ÷ quantidade|	$\frac{\sum{x}}{n}$|	Dados sem outliers; resumo geral|
 |Mediana|	Valor do meio|	Ordene e pegue o meio|	Dados com outliers; valor "típico"|
 |Moda|	Valor mais frequente|	Observe a tabela|	Saber o mais comum|
 
