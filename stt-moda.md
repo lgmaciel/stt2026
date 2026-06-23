@@ -10,15 +10,18 @@ Vamos:
 - Moda: o valor que aparece com maior frequência
 
 Pode haver uma moda, duas modas (bimodal), mais de duas ou nenhuma
-Não se calcula: apenas se observa na tabela de frequência
 
 ## Quando é útil
 
 Exemplo: Uma loja de roupas quer saber qual tamanho de camiseta pedir mais ao fornecedor.
 
-Não interessa a média de tamanhos vendidos (o que não faz sentido). Interessa o tamanho mais vendido — a moda.
+Não interessa a média de tamanhos vendidos (o que não faz sentido). Interessa o tamanho mais vendido (que é moda).
 
-Se a loja vendeu: P, P, M, M, M, G, G, G, G, GG
+Se a loja vendeu:
+
+```
+P, P, M, M, M, G, G, G, G, GG
+```
 
 Moda = G (aparece 4 vezes)
 

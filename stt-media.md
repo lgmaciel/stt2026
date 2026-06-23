@@ -12,7 +12,6 @@ Não é tão bom dizer "tirei 7, 8 e 9" — isso são três notas diferentes. Ma
 
 $média = \frac{somatorio(x)}{quantidade(x)}$
 
-
 ### Exemplo 1: Notas Simples
 
 Notas: $7, 8, 9$
@@ -20,7 +19,6 @@ Notas: $7, 8, 9$
 $Média = (7 + 8 + 9) ÷ 3 = 24 ÷ 3 = 8$
 
 Você tirou $8$ de média.
-
 
 ### Exemplo 2: Usando Tabela de Frequência
 
@@ -36,10 +34,7 @@ Voltando às notas do Exercício 2:
 |10|	1|	10 × 1 = 10|
 |**Total**|	**15**|	**108**|
 
-
-
 $Média= \frac{108}{15}​ = 7.2$
-
 
 A turma tirou $7,2$ de média.
 
@@ -53,7 +48,7 @@ Note que assim:
 
 Alturas (em cm) de 8 alunos:
 
-```
+```python
 162, 168, 155, 170, 165, 162, 168, 160
 ```
 
