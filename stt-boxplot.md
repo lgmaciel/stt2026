@@ -8,7 +8,7 @@ Vamos desenhar e interpretar box plots.
 1. Desenhe uma linha dentro da caixa em Q2 (mediana)
 1. Desenhe linhas (whiskers/bigodes) do mínimo a Q1 e de Q3 ao máximo
 
-O que o Box Plot mostra:
+### O que o Box Plot mostra:
 
 - A caixa mostra onde estão 50% dos dados (Q1 a Q3)
 - A linha dentro da caixa é a mediana (Q2)
@@ -28,10 +28,10 @@ Tempos (em minutos) que 16 alunos levaram para fazer uma prova:
 35, 42, 38, 40, 45, 38, 40, 43, 41, 39, 45, 44, 37, 46, 40, 42
 ```
 
-Tarefa:
+### Tarefa
 
 - Organize em rol
 - Encontre Q1, Q2, Q3
 - Identifique mínimo e máximo
 - Desenhe o box plot manualmente
-- Interprete: "Metade dos alunos levou menos de ___ minutos?"
+- Interprete: "Metade dos alunos levou menos de $x$ minutos?"
