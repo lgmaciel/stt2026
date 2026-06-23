@@ -13,7 +13,7 @@ Pode haver uma moda, duas modas (bimodal), mais de duas ou nenhuma
 
 ## Quando é útil
 
-Exemplo: Uma loja de roupas quer saber qual tamanho de camiseta pedir mais ao fornecedor.
+**Exemplo:** Uma loja de roupas quer saber qual tamanho de camiseta pedir mais ao fornecedor.
 
 Não interessa a média de tamanhos vendidos (o que não faz sentido). Interessa o tamanho mais vendido (que é moda).
 
@@ -35,15 +35,15 @@ Voltando ao Exercício das [pizzas vendidas](stt-revisao-rol-media.md):
 |-|-|
 |8|	3|
 |9|	3|
-|10|	4 ← maior|
+|10|	4 <- maior|
 |11|	3|
-|12|	4 ← maior|
+|12|	4 <- maior|
 |13|	2|
 |14|	1|
 
-Moda = 10 e 12 (ambos com frequência 4 — bimodal)
+Moda = 10 e 12 (ambos com frequência 4 = bimodal)
 
-Significado: Os dias "mais típicos" tiveram 10 ou 12 pizzas vendidas.
+**Significado:** Os dias "mais típicos" tiveram 10 ou 12 pizzas vendidas.
 
 ### Casos Especiais
 
