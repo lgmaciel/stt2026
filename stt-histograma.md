@@ -15,8 +15,7 @@ Histograma é como um "mapa do tesouro". A montanha mais alta (160-170) é onde 
 Tempo (em minutos) que 25 alunos levaram para fazer uma tarefa:
 
 ```python
-12, 15, 18, 14, 16, 20, 22, 19, 17, 21, 23, 16, 18, 15, 24,
-11, 19, 22, 20, 18, 17, 25, 14, 21, 13
+12, 15, 18, 14, 16, 20, 22, 19, 17, 21, 23, 16,18, 15, 24,11, 19, 22, 20, 18, 17, 25, 14, 21, 13
 ```
 
 ## Tarefa
