@@ -24,7 +24,7 @@ Revisões e exercícios
 
 - [Revisão: rol, média, gáfico de barras, histograma](stt-revisao-rol-media.md)
 - [Média, mediana, moda](stt-media-mediana-moda-ex.md) - exercício
-
+- [Exercício 3](ex3-tabela-freq.ipynb) - resolvido em aula: Tabela de Frequências, Python (Counter, filter)
 ---
 
 Python
