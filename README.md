@@ -18,6 +18,9 @@
 - [Quartis](stt-quartis.md)
 - [Boxplot](stt-boxplot.md)
 - [Amplitude](stt-amplitude.md) - Amplitude, Intervalo Interquartil (IQR) e Comparação de Distribuições
+- [Histograma - com pandas](stt-histograma.ipynb) - pesos e alturas coletados dos alunos
+- [Medidas de Centralidade - com pandas](stt-pandas-centralidade.ipynb)
+- [Medidas de Dispersão - com pandas](stt-pandas-dispersao.ipynb)
 
 ---
 Revisões e exercícios
@@ -33,3 +36,8 @@ Python
 - [média](stt-media.ipynb)
 - [moda](stt-moda.ipynb) - valor mais comum
 - [amplitude](stt-amplitude.ipynb) - amplitude, máximo e mínimo
+
+Pandas
+
+- [operações básicas](stt-pandas-intro.ipynb)
+- [gráficos](stt-pandas-graficos.ipynb) - linhas, barras, histograma, dispersão
