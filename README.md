@@ -29,6 +29,7 @@ Revisões e exercícios
 - [Média, mediana, moda](stt-media-mediana-moda-ex.md) - exercício
 - [Exercício 3](ex3-tabela-freq.ipynb) - resolvido em aula: Tabela de Frequências, Python (Counter, filter)
 - [Estatisticas básicas](stt-exemplo-stt-basicas.ipynb) - dados coletados em campo
+- [Histograma - feito em aula](stt-histograma-feito-em-aula.ipynb) - 30/06/2026
 ---
 
 Python
