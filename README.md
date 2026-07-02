@@ -21,6 +21,7 @@
 - [Histograma - com pandas](stt-histograma.ipynb) - pesos e alturas coletados dos alunos
 - [Medidas de Centralidade - com pandas](stt-pandas-centralidade.ipynb)
 - [Medidas de Dispersão - com pandas](stt-pandas-dispersao.ipynb)
+- [Distribuição Uniforme](stt-distribuicao-uniforme.ipynb) - estudo de lançamento de dados
 
 ## Estatistica Preditiva
 
