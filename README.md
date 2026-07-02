@@ -22,6 +22,10 @@
 - [Medidas de Centralidade - com pandas](stt-pandas-centralidade.ipynb)
 - [Medidas de Dispersão - com pandas](stt-pandas-dispersao.ipynb)
 
+## Estatistica Preditiva
+
+- [Regressão linear](stt-py-regressao-linear.ipynb) - com Python e Scikit-learn
+
 ---
 Revisões e exercícios
 
