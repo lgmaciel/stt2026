@@ -37,6 +37,7 @@ Revisões e exercícios
 - [Estatisticas básicas](stt-exemplo-stt-basicas.ipynb) - dados coletados em campo
 - [Histograma - feito em aula](stt-histograma-feito-em-aula.ipynb) - 30/06/2026
 - [Peso x Altura](stt-ex-peso-altura-regressao-linear.ipynb) - Regressão linear
+- Peso x Altura [Feito em aula](stt-ex-peso-altura-regressao-linear-feito-em-aula.ipynb)
 - [Preço do imóvel](stt-ex-preco-casa-tamanho.ipynb) - Regressão linear
 ---
 
