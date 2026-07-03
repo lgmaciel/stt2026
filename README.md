@@ -36,6 +36,8 @@ Revisões e exercícios
 - [Exercício 3](ex3-tabela-freq.ipynb) - resolvido em aula: Tabela de Frequências, Python (Counter, filter)
 - [Estatisticas básicas](stt-exemplo-stt-basicas.ipynb) - dados coletados em campo
 - [Histograma - feito em aula](stt-histograma-feito-em-aula.ipynb) - 30/06/2026
+- [Peso x Altura](stt-ex-peso-altura-regressao-linear.ipynb) - Regressão linear
+- [Preço do imóvel](stt-ex-preco-casa-tamanho.ipynb) - Regressão linear
 ---
 
 Python
