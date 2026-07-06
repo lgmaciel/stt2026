@@ -27,6 +27,7 @@
 
 - [Funções lineares](stt-funcoes-lineares.ipynb) - estudo de funções lineares
 - [Regressão linear](stt-py-regressao-linear.ipynb) - com Python e Scikit-learn
+- [Regressão polinomial](stt-regressao-polinomial.ipynb)
 
 ---
 Revisões e exercícios
