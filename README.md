@@ -40,6 +40,8 @@ Revisões e exercícios
 - [Peso x Altura](stt-ex-peso-altura-regressao-linear.ipynb) - Regressão linear
 - Peso x Altura [Feito em aula](stt-ex-peso-altura-regressao-linear-feito-em-aula.ipynb)
 - [Preço do imóvel](stt-ex-preco-casa-tamanho.ipynb) - Regressão linear
+- [Temperaturas ao longo do dia](stt-ex-regressao-temp-dia.ipynb) - Regressão polinomial
+- [Viagens x Meses](stt-ex-viagens-meses.ipynb) - Regressão Polinomial
 ---
 
 Python
