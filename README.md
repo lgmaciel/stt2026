@@ -28,6 +28,7 @@
 - [Funções lineares](stt-funcoes-lineares.ipynb) - estudo de funções lineares
 - [Regressão linear](stt-py-regressao-linear.ipynb) - com Python e Scikit-learn
 - [Regressão polinomial](stt-regressao-polinomial.ipynb)
+- [Regressão logistica](stt-regressao-logistica-01.ipynb) - Altura + Peso => Academia sim ou não?
 
 ---
 Revisões e exercícios
@@ -42,6 +43,7 @@ Revisões e exercícios
 - [Preço do imóvel](stt-ex-preco-casa-tamanho.ipynb) - Regressão linear
 - [Temperaturas ao longo do dia](stt-ex-regressao-temp-dia.ipynb) - Regressão polinomial
 - [Viagens x Meses](stt-ex-viagens-meses.ipynb) - Regressão Polinomial
+- [Predizendo a espécie da flor](stt-regressao-logistica-iris.ipynb) - Regressão logistica
 ---
 
 Python
