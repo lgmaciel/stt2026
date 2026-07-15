@@ -30,6 +30,12 @@
 - [Regressão polinomial](stt-regressao-polinomial.ipynb)
 - [Regressão logistica](stt-regressao-logistica-01.ipynb) - Altura + Peso => Academia sim ou não?
 
+## Argumentação
+
+- [Análise de argumentos](analise-de-argumentos.md)
+- [Exercícios - análise de argumentos](exercicios-analise-argumentos.md)
+- [Exercícios - argumentos ml](exercicios-argumentos-ml.md)
+
 ---
 Revisões e exercícios
 
