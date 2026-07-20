@@ -23,6 +23,11 @@
 - [Medidas de Dispersão - com pandas](stt-pandas-dispersao.ipynb)
 - [Distribuição Uniforme](stt-distribuicao-uniforme.ipynb) - estudo de lançamento de dados
 
+## Relação entre variáveis
+
+- [Correlação e Covariância (teoria)](stt-correlacao-covariancia.md) - Covariância, Pearson, armadilhas
+- [Correlação e Covariância (prática)](stt-correlacao-python.ipynb) - pandas, seaborn, exercícios
+
 ## Estatistica Preditiva
 
 - [Funções lineares](stt-funcoes-lineares.ipynb) - estudo de funções lineares
