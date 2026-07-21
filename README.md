@@ -25,8 +25,10 @@
 
 ## Relação entre variáveis
 
-- [Correlação e Covariância (teoria)](stt-correlacao-covariancia.md) - Covariância, Pearson, armadilhas
-- [Correlação e Covariância (prática)](stt-correlacao-python.ipynb) - pandas, seaborn, exercícios
+- [Correlação e Covariância](stt-correlacao-covariancia.md) - Covariância, Pearson, armadilhas
+- [Correlação e Covariância - Python](stt-correlacao-python.ipynb) - pandas, seaborn, exercícios
+- [Correlação - Exercícios](stt-correlacao-exercicios.ipynb) - Exercícios com entrega
+
 
 ## Estatistica Preditiva
 
@@ -34,12 +36,6 @@
 - [Regressão linear](stt-py-regressao-linear.ipynb) - com Python e Scikit-learn
 - [Regressão polinomial](stt-regressao-polinomial.ipynb)
 - [Regressão logistica](stt-regressao-logistica-01.ipynb) - Altura + Peso => Academia sim ou não?
-
-## Argumentação
-
-- [Análise de argumentos](analise-de-argumentos.md)
-- [Exercícios - análise de argumentos](exercicios-analise-argumentos.md)
-- [Exercícios - argumentos ml](exercicios-argumentos-ml.md)
 
 ---
 Revisões e exercícios
@@ -55,6 +51,7 @@ Revisões e exercícios
 - [Temperaturas ao longo do dia](stt-ex-regressao-temp-dia.ipynb) - Regressão polinomial
 - [Viagens x Meses](stt-ex-viagens-meses.ipynb) - Regressão Polinomial
 - [Predizendo a espécie da flor](stt-regressao-logistica-iris.ipynb) - Regressão logistica
+
 ---
 
 Python
@@ -62,6 +59,7 @@ Python
 - [média](stt-media.ipynb)
 - [moda](stt-moda.ipynb) - valor mais comum
 - [amplitude](stt-amplitude.ipynb) - amplitude, máximo e mínimo
+
 
 Pandas
 

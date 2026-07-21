@@ -1,6 +1,6 @@
 # Correlação e Covariância
 
-## Conceito Intuitivo
+## Conceito 
 
 Imagine que você mede **peso** e **altura** de 50 pessoas. Ao plotar os dados em um gráfico de dispersão, nota um padrão: pessoas mais altas tendem a pesar mais. Mas como **quantificar** essa relação?
 
@@ -15,6 +15,25 @@ Imagine que você mede **peso** e **altura** de 50 pessoas. Ao plotar os dados e
 A covariância mede como duas variáveis variam **conjuntamente**.
 
 $$\text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})$$
+
+### Significado das variáveis
+
+| Símbolo | Significado |
+|---------|-------------|
+| $X, Y$ | As duas variáveis que estamos comparando (ex: peso e altura) |
+| $n$ | Número de observações (tamanho da amostra) |
+| $x_i$ | O valor da $i$-ésima observação de $X$ |
+| $y_i$ | O valor da $i$-ésima observação de $Y$ |
+| $\bar{x}$ | Média aritmética de todas as observações de $X$ |
+| $\bar{y}$ | Média aritmética de todas as observações de $Y$ |
+| $(x_i - \bar{x})$ | O quanto o $i$-ésimo valor de $X$ **se desvia** da média de $X$ |
+| $(y_i - \bar{y})$ | O quanto o $i$-ésimo valor de $Y$ **se desvia** da média de $Y$ |
+
+### Como ler a fórmula
+
+Cada termo $(x_i - \bar{x})(y_i - \bar{y})$ multiplica os desvios de $X$ e $Y$ na mesma observação. Se ambos estão **acima** da média (ou ambos **abaixo**), o produto é **positivo**. Se um está acima e o outro abaixo, o produto é **negativo**. A soma de todos esses produtos, dividida por $n$, nos dá a covariância.
+
+---
 
 ### Interpretação do sinal
 
@@ -36,6 +55,13 @@ Para resolver o problema da escala, normalizamos a covariância dividindo pelos 
 
 $$r = \frac{\text{Cov}(X, Y)}{\sigma_X \cdot \sigma_Y}$$
 
+A correlação pergunta:
+
+"Quando X está 1 desvio padrão acima da média, Y tende a estar quantos desvios padrão acima da média?"
+
+Isso dá uma resposta na mesma escala, sempre entre −1 e +1.
+
+
 ### Propriedades
 
 - **Sempre entre −1 e +1**
@@ -44,6 +70,7 @@ $$r = \frac{\text{Cov}(X, Y)}{\sigma_X \cdot \sigma_Y}$$
 - **r = 0** → sem correlação linear
 
 ### Interpretação prática
+
 
 | Valor de r | Força da relação |
 |------------|------------------|
